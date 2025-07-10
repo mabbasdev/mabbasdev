@@ -8,6 +8,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mabbasm)
+[![Preferred Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@deviconix.com)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mabbasm1100@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/923353259995?text=I%20want%20to%20work%20with%20you!)
 
