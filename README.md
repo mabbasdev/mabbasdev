@@ -1,7 +1,7 @@
 ## Hi, I'm Muhammad Abbas ​✨​​<br/>
 ​<br/>
 👋 A Professional Web Developer with 2+ years of Experience!<br/>
-🎨 I don’t just design - I design and build for conversions and results.
+🎨 I don’t just design - I design and build for conversions and results. <br/>
 💻 I build eye-catching, responsive, user-friendly websites with modern UI/UX design principles.​<br/>
 🚀 I love working on real-world projects, I'm always learning and exploring new tools and technologies.​<br/>
 🌱 Currently working on my blog (deviconix.com and gatherknow.com) and education the youth.​<br/>
