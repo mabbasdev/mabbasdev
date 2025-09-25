@@ -1,9 +1,10 @@
 ## Hi, I'm Muhammad Abbas ​✨​​<br/>
 ​<br/>
-👋 A passionate Frontend & PHP Developer based in Pakistan.​<br/>
-💻 I build responsive, user-friendly websites and web apps utilizing modern UI/UX design principles.​<br/>
+👋 A Professional Web Developer with 2+ years of Experience!<br/>
+🎨 I don’t just design - I design and build for conversions and results.
+💻 I build eye-catching, responsive, user-friendly websites with modern UI/UX design principles.​<br/>
 🚀 I love working on real-world projects, I'm always learning and exploring new tools and technologies.​<br/>
-🌱 Currently building and selling web templates and themes, and expanding into full-stack development.​<br/>
+🌱 Currently working on my blog (deviconix.com and gatherknow.com) and education the youth.​<br/>
 📫 Let's connect! Reach out via LinkedIn or email for collaborations or freelance work.​<br/>
 
 ## 🌐 Socials:
