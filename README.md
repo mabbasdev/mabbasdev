@@ -3,7 +3,7 @@
 ## 👋 About Me
 I am a front-end developer focused on building **clean, responsive, and API-driven web applications**.
 
-I work primarily with **HTML, CSS, JavaScript, React, and TypeScript**, turning real-world problems into practical user interfaces. My projects emphasize **API integration, loading/error handling, and maintainable component architecture**.
+I work primarily with **HTML, CSS, JavaScript, React, and WordPress**, turning real-world problems into practical user interfaces. My projects emphasize **API integration, loading/error handling, and maintainable component architecture**.
 
 Previously, I worked as an **IT Support Intern at ICCI**, gaining hands-on experience with **Active Directory, Windows Server, system troubleshooting, and real-world IT operations**. This experience helps me build **secure, reliable front-end solutions**.
 
@@ -18,7 +18,7 @@ I am actively seeking **front-end internship or junior developer opportunities**
 - CSS3  
 - JavaScript (ES6+)  
 - React.js  
-- TypeScript  
+- WordPress  
 - Responsive Web Design  
 - REST APIs / API Integration  
 - Git & GitHub  
@@ -32,12 +32,13 @@ I am actively seeking **front-end internship or junior developer opportunities**
 - Basic Web Performance Optimization  
 
 ### IT Support & Enterprise Exposure
-- Active Directory (Basic)  
-- Windows Server (Exposure)  
+- Active Directory
+- Windows Server  
 - User Access & Permissions Management  
 - IT Support Operations
 - Linux Fundamentals
 - System Troubleshooting
+- Troubleshooting
 
 ### Soft Skills
 - Problem Solving  
@@ -55,7 +56,8 @@ I am actively seeking **front-end internship or junior developer opportunities**
 - Assisted with hardware, software, and network-related issues  
 - Worked with Active Directory for user management, access control, and basic administration  
 - Gained hands-on exposure to Windows Server environments and IT infrastructure  
-- Developed strong problem-solving, documentation, and communication skills in a professional environment  
+- Developed strong problem-solving, documentation, and communication skills in a professional environment
+- Identified and resolved website responsiveness and layout issues, improving accessibility and user experience across different devices
 
 ---
 
@@ -70,7 +72,7 @@ I am actively seeking **front-end internship or junior developer opportunities**
 
 ## 🔗 LinkedIn
 - [linkedin.com/in/mabbasdev](https://linkedin.com/in/mabbasdev)  
-- Headline: `Front-End Developer | React, JavaScript, TypeScript | Building Real-World, API-Driven Web Interfaces`  
+- Headline: `Front-End Developer | React, JavaScript, WordPress | Building Real-World, API-Driven Web Interfaces`  
 - Active posting: weekly project updates, learning insights, problem-solution breakdowns  
 
 ---
