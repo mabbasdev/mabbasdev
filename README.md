@@ -1,13 +1,13 @@
-# Muhammad Abbas | Front-End Developer
+# Muhammad Abbas | Web Developer | JavaScript | WordPress
 
 ## 👋 About Me
-I am a front-end developer focused on building **clean, responsive, and API-driven web applications**.
+I am a web developer focused on building **clean, responsive, and API-driven web applications**.
 
 I work primarily with **HTML, CSS, JavaScript, React, and WordPress**, turning real-world problems into practical user interfaces. My projects emphasize **API integration, loading/error handling, and maintainable component architecture**.
 
 Previously, I worked as an **IT Support Intern at ICCI**, gaining hands-on experience with **Active Directory, Windows Server, system troubleshooting, and real-world IT operations**. This experience helps me build **secure, reliable front-end solutions**.
 
-I am actively seeking **front-end internship or junior developer opportunities**.
+I am actively seeking **internship or junior developer opportunities for Full Stack Developer Roles**.
 
 ---
 
@@ -72,7 +72,7 @@ I am actively seeking **front-end internship or junior developer opportunities**
 
 ## 🔗 LinkedIn
 - [linkedin.com/in/mabbasdev](https://linkedin.com/in/mabbasdev)  
-- Headline: `Front-End Developer | React, JavaScript, WordPress | Building Real-World, API-Driven Web Interfaces`  
+- Headline: `Web Developer | React, JavaScript, WordPress | Building Secure, API-Driven Web Interfaces | Founder of GatherKnow`  
 - Active posting: weekly project updates, learning insights, problem-solution breakdowns  
 
 ---
