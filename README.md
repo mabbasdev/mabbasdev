@@ -11,7 +11,7 @@ Quick Status: Actively seeking Junior Full-Stack Developer Roles, Internships, o
 
 ## About Me
 
-I am a Computer Science student specializing in the intersection of Enterprise
+I am a Computer Science professional specializing in the intersection of Enterprise
 IT Infrastructure, Systems Automation, and Production-Grade Full-Stack
 Development (MERN/PHP). 
 
